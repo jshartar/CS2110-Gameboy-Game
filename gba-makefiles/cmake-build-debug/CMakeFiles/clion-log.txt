@@ -1,0 +1,4 @@
+/home/jshartar6/Desktop/clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/jshartar6/Desktop/CS2110/HW09/gba-makefiles
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug

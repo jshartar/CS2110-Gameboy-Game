@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/gba_makefiles.dir/res/libc_sbrk.c.o CMakeFiles/gba_makefiles.dir/main.c.o  -o gba_makefiles 

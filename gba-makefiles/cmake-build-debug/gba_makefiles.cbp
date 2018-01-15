@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="gba_makefiles"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gba_makefiles">
+				<Option output="/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug/gba_makefiles" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug/Makefile&quot;  VERBOSE=1 gba_makefiles"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gba_makefiles/fast">
+				<Option output="/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug/gba_makefiles" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug/Makefile&quot;  VERBOSE=1 gba_makefiles/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/Makefile">
+			<Option target="gba_makefiles"/>
+		</Unit>
+		<Unit filename="/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/bullet.h">
+			<Option target="gba_makefiles"/>
+		</Unit>
+		<Unit filename="/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/enemy.h">
+			<Option target="gba_makefiles"/>
+		</Unit>
+		<Unit filename="/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/enemyBullet.h">
+			<Option target="gba_makefiles"/>
+		</Unit>
+		<Unit filename="/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/gameOver.h">
+			<Option target="gba_makefiles"/>
+		</Unit>
+		<Unit filename="/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/kamikaze.h">
+			<Option target="gba_makefiles"/>
+		</Unit>
+		<Unit filename="/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/main.c">
+			<Option target="gba_makefiles"/>
+		</Unit>
+		<Unit filename="/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/myLib.h">
+			<Option target="gba_makefiles"/>
+		</Unit>
+		<Unit filename="/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/res/GBAVariables.mak">
+			<Option target="gba_makefiles"/>
+		</Unit>
+		<Unit filename="/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/res/arm-gba.ld">
+			<Option target="gba_makefiles"/>
+		</Unit>
+		<Unit filename="/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/res/crt0.s">
+			<Option target="gba_makefiles"/>
+		</Unit>
+		<Unit filename="/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/res/libc_sbrk.c">
+			<Option target="gba_makefiles"/>
+		</Unit>
+		<Unit filename="/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/ship.h">
+			<Option target="gba_makefiles"/>
+		</Unit>
+		<Unit filename="/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/startScreen.h">
+			<Option target="gba_makefiles"/>
+		</Unit>
+		<Unit filename="/home/jshartar6/Desktop/CS2110/HW09/gba-makefiles/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
